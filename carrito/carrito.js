@@ -1,11 +1,11 @@
 //Array bidensional para almacenar los productos disponibles
 const products = [
     //Lista de productos en el siguiente formato:[ID,Nombre,Precio,Ruta de Imagen]
-    [1, "", 1000, "imagenes/vestido1.webp"],
+    [1, "", 1000, "imagenes/vestido1.jpg"],
     [2, "", 1000, "imagenes/vestido2.jpg"],
     [3, "", 1000, "imagenes/vestido3.jpg"],
     [4, "", 1000, "imagenes/vestido4.jpg"],
-    [5, "", 1000, "imagenes/vestido5.jpg"],
+    [5, "", 1000, "imagenes/vestido5.webp"],
     [6, "", 1000, "imagenes/vestido6.jpg"],
     [7, "", 1000, "imagenes/vestido7.jpg"],
     [8, "", 1000, "imagenes/vestido8.jpg"]
